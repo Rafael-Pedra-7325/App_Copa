@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">APP COPA</string>
+    <string name="direitos">Todos os direitos reservados</string>
+    <string name="estadios">Estádios</string>
+</resources>
